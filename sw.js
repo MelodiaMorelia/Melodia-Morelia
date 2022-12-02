@@ -11,15 +11,15 @@ self.addEventListener('install', evento=>{
     .then(cache=>{
  
     return cache.addAll([
-    '/',
-    '/index.html',
-    '/shop-grid.html',
-    '/shoping-cart.html',
-    '/blog-details.html',
-    '/blog-details2.html',
-    '/contact.html',
-    '/offline.html',
-    '/img/blog/details/offline.jpg'
+    
+    'index.html',
+    'shop-grid.html',
+    'shoping-cart.html',
+    'blog-details.html',
+    'blog-details2.html',
+    'contact.html',
+    'offline.html',
+    'img/blog/details/offline.jpg'
     
 
  ]);
