@@ -14,12 +14,19 @@ self.addEventListener('install', evento=>{
     
     'index.html',
     'shop-grid.html',
-    'shoping-cart.html',
+    'blog.html',
     'blog-details.html',
     'blog-details2.html',
     'contact.html',
     'offline.html',
-    'img/blog/details/offline.jpg'
+    'img/blog/details/offline.jpg',
+    '50.html',
+    '60.html',
+    '70.html',
+    '80.html',
+    '90.html',
+    '2000.html'
+
     
 
  ]);
