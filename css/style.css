@@ -2549,7 +2549,8 @@ ol {
 
 .blog__details__author__pic {
 	float: left;
-	margin-right: 15px;
+	margin-right: 50px;
+	margin-top: 20px;
 }
 
 .blog__details__author__pic img {
